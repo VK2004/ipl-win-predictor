@@ -52,3 +52,5 @@ if st.button('Predict Probability'):
     st.header('Wining Probabilty ')
     st.header(f"{batting_team}  : {r_2} %")
     st.header(f"{bowling_team}  : {r_1} %")
+
+
